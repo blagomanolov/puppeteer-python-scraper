@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  automation:
+    build: .
+    container_name: gl_population_by_year_a
+    volumes:
+      - ./parser:/app/parser
+    stdin_open: true
+    tty: true
+    restart: unless-stopped

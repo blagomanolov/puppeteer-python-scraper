@@ -1,0 +1,8 @@
+{
+  "table_name": "population_by_region",
+  "mappings": {
+    "content": "Region",
+    "value": "Population",
+    "date": "A"
+  }
+}

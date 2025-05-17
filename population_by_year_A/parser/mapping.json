@@ -1,0 +1,8 @@
+{
+  "table_name": "population_by_year",
+  "mappings": {
+    "content": "Use World Population word for fill content",
+    "value": "Population",
+    "date": "A"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "table_name": "population_data",
+  "mappings": {
+    "content": "Country",
+    "value": "Population",
+    "date": "A"
+  }
+}
